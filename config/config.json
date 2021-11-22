@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "reg_form",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {},
+  "production": {}
+}
